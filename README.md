@@ -8,8 +8,8 @@
 
 # We have five columns in our dataset:
 
--userid: represents the unique identifiers of the users that installed Cookie Cats game while the A/B test was running;
--version: has two unique values corresponding to two starting levels, it is intended for dividing the data into two samples for performing a statistical test;
--sum_gamerounds: represents the quantity of rounds played by a certain user;
--retention_1: shows how many users returned to the game one day after installing it;
--retention_7: shows how many users returned to the game seven days after installing it.
+- userid: represents the unique identifiers of the users that installed Cookie Cats game while the A/B test was running;
+- version: has two unique values corresponding to two starting levels, it is intended for dividing the data into two samples for performing a statistical test;
+- sum_gamerounds: represents the quantity of rounds played by a certain user;
+- retention_1: shows how many users returned to the game one day after installing it;
+- retention_7: shows how many users returned to the game seven days after installing it.
